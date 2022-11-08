@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://twitter.com/felipejoglar" target="blank"><img src="https://img.shields.io/twitter/follow/felipejoglar?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
-  &nbsp;&nbsp;
   <a rel="me" href="https://androiddev.social/@felipejoglar" target="blank"><img src="https://img.shields.io/mastodon/follow/109280268877222360?domain=https%3A%2F%2Fandroiddev.social&logo=mastodon&style=for-the-badge" alt="Mastodon Follow"></a>
 </p>
 
