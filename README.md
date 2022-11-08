@@ -5,7 +5,17 @@
   <a href="https://twitter.com/felipejoglar" target="blank"><img src="https://img.shields.io/twitter/follow/felipejoglar?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
   <a rel="me" href="https://androiddev.social/@felipejoglar" target="blank"><img src="https://img.shields.io/mastodon/follow/109280268877222360?domain=https%3A%2F%2Fandroiddev.social&logo=mastodon&style=for-the-badge" alt="Mastodon Follow"></a>
 </p>
+</br>
 
+- 🔭 I’m currently working as Android Engineer at [Cabify](https://github.com/cabify)
+- 🌱 I’m currently learning **Kotlin Multiplatform with Compose & SwiftUI**
+- 🤝 I’m looking for help with [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- 👨‍💻 All of my projects are available [here on GitHub](https://github.com/felipejoglar?tab=repositories)
+- 💬 Ask me about **Android, Kotlin, Compose and testing**
+- 📄 Know about my experiences [https://www.linkedin.com/in/felipejoglar](https://www.linkedin.com/in/felipejoglar)
+- ⚡ Fun fact **I like playing the drums 🥁**
+
+</br>
 <p align="center">
   <picture>
   <source 
