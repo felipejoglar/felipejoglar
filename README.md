@@ -13,9 +13,10 @@
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/felipejoglar?tab=repositories)
 - 💬 Ask me about **Android, Kotlin, Compose and testing**
 - 📚 I'm currently reading [Dependency Injection Principles, Practices and Paterns](https://www.manning.com/books/dependency-injection-principles-practices-patterns) by Steven van Deursen and Mark Seemann.
-- 📖 Also reading non tech [Discipline Equals Freedom](https://www.goodreads.com/book/show/34431560-discipline-equals-freedom) by Jocko Willink.
 - 📄 Know about my experiences [https://www.linkedin.com/in/felipejoglar](https://www.linkedin.com/in/felipejoglar)
 - ⚡ Fun fact **I like playing the drums 🥁**
+
+<!-- - 📖 Also reading non tech [Discipline Equals Freedom](https://www.goodreads.com/book/show/34431560-discipline-equals-freedom) by Jocko Willink. --> 
 
 </br>
 <p align="center">
