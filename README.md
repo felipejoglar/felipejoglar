@@ -7,7 +7,7 @@
 </p>
 </br>
 
-- 🔭 I’m currently working as Android Engineer at [Cabify](https://github.com/cabify)
+- 🔭 I’m currently working as Android Engineer at [ēllu](https://github.com/Ellu-Company)
 - 🌱 I’m currently learning **Kotlin Multiplatform with Compose & SwiftUI**
 - 🤝 I’m looking for help with [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/felipejoglar?tab=repositories)
