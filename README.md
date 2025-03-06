@@ -8,11 +8,11 @@
 </br>
 
 - 🔭 I’m currently working as Android Engineer at [ēllu](https://github.com/Ellu-Company)
-- 🌱 I’m currently learning **Kotlin Multiplatform with Compose & SwiftUI**
-- 🤝 I’m looking for help with [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- 🌱 I’m currently learning **Kotlin Multiplatform with Compose & Rails**
+- 🤝 I’m looking for help with [Rails](https://rubyonrails.org/)
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/felipejoglar?tab=repositories)
 - 💬 Ask me about **Android, Kotlin, Compose and testing**
-- 📚 I'm currently reading [Dependency Injection Principles, Practices and Paterns](https://www.manning.com/books/dependency-injection-principles-practices-patterns) by Steven van Deursen and Mark Seemann.
+- 📚 I'm currently reading [Grokking algorithms](https://www.manning.com/books/grokking-algorithms-second-edition) by Aditya Y. Bhargava.
 - 📄 Know about my experiences [https://www.linkedin.com/in/felipejoglar](https://www.linkedin.com/in/felipejoglar)
 - ⚡ Fun fact **I like playing the drums 🥁**
 
